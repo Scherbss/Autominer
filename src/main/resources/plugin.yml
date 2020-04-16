@@ -1,0 +1,7 @@
+name: AutoMiner
+main: me.scherbs.autominer.AutoMinerPlugin
+version: 1.0
+description: AutoMiner Plugin
+commands:
+  autominer:
+    aliases: am
